@@ -56,7 +56,7 @@ vk.api.version=5.199
 
 ## Структура проекта
 
-- **VkBotApplication.java**: Главный класс для запуска Spring Boot приложения.
+- **BotVkApplication.java**: Главный класс для запуска Spring Boot приложения.
 - **LongPollService.java**: Сервис, который управляет Long Poll подключением и обработкой событий.
 - **VkEntities.java**: Класс, представляющий событие от Long Poll API.
 - **VkMessage.java**: Класс, представляющий сообщение от Long Poll API.
